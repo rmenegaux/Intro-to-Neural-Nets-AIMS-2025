@@ -1,2 +1,1 @@
-# Intro to Neural Networks Course Page
-## AIMS 2025
+## Intro to Neural Networks, AIMS 2025
