@@ -6,5 +6,6 @@ Course page for the Introduction to Neural Networks class.
 This page will be updated as the class progresses.
 
 
-### Professor
-[Romain Menegaux](https://rmenegaux.github.io)
+---
+
+**Professor**: [Romain Menegaux](https://rmenegaux.github.io)
